@@ -1,2 +1,2 @@
 # RPG-Generator
-The RPG Generator file is just the name generator with an old version. P1 is the current updated version.
+Currently very unfinished, only aging mechanic and reincarnation mechanic added
